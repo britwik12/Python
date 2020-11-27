@@ -1,1 +1,1 @@
-Dash Project - Developing an App
+Dash Project - College Football App
